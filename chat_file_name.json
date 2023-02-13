@@ -1,0 +1,32 @@
+[
+    {
+        "date": "30.7.2016",
+        "time": "22.47",
+        "sender": "Linus",
+        "message": "Hello there!"
+    },
+    {
+        "date": "30.7.2016",
+        "time": "22.48",
+        "sender": "Bill",
+        "message": "General Kenobi!"
+    },
+    {
+        "date": "31.7.2016",
+        "time": "14.38",
+        "sender": "Jeff",
+        "message": "I am your father!"
+    },
+    {
+        "date": "31.7.2016",
+        "time": "14.38",
+        "sender": "Elon",
+        "message": "That's impossible!"
+    },
+    {
+        "date": "31.7.2016",
+        "time": "14.39",
+        "sender": "Anton",
+        "message": "What's the most you ever lost on a coin toss?"
+    }
+]

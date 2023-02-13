@@ -20,5 +20,6 @@ for line in chat_history.strip().split('\n'):
     else:
         chat_list[-1]['message'] += '\n' + line.strip()
 
+# change 'chat_file_name.json' to what you want the file to be called
 with open('chat_file_name.json', 'w', encoding='utf-8') as f:
     json.dump(chat_list, f, ensure_ascii=False, indent=4)
